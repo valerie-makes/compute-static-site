@@ -1,0 +1,9 @@
+# This file describes a Fastly Compute@Edge package. To learn more visit:
+# https://developer.fastly.com/reference/fastly-toml/
+
+authors = ["v@valbailey.com"]
+description = "Host a static site on Compute@Edge"
+language = "rust"
+manifest_version = 2
+name = "compute-static-site"
+service_id = ""
