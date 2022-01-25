@@ -6,4 +6,4 @@ description = "Host a static site on Compute@Edge"
 language = "rust"
 manifest_version = 2
 name = "compute-static-site"
-service_id = ""
+service_id = "5eCE87thUTYofIviPBmOwK"
