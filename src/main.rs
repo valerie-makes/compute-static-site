@@ -1,5 +1,3 @@
-//! Default Compute@Edge template program.
-
 use fastly::http::{header, Method, StatusCode};
 use fastly::{mime, Error, Request, Response};
 use include_dir::{include_dir, Dir};
