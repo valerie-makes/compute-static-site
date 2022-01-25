@@ -13,6 +13,11 @@ h3 {
   line-height: 1.2;
 }
 
+figure {
+  margin-left: 0;
+  margin-right: 0;
+}
+
 img {
   width: 100%;
 }
